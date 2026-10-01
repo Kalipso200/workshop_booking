@@ -588,11 +588,6 @@ python manage.py test --keepdb --parallel -v 2
 
 ##  Postman-коллекция
 
-В проекте две папки для Postman:
-
-- `Workshop_Booking.postman_collection.json` — сама коллекция.
-- `Workshop_Booking.postman_environment.json` — окружение.
-
 ### Импорт
 
 Postman → **File → Import** → перетащите JSON-файл.
